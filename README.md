@@ -17,11 +17,15 @@ This workshop will provide an introduction to large-scale computing resources av
 | --- | ----------- | ----------- |
 | *Section:* | *Overview/User Environment*| |
 | 9:00 AM – 9:05 AM | Welcome & Introduction | [TBD](#tbd) |
-| 9:05 AM - 10:45 AM | Overview of Electroencephalography [[download]](presentation.pdf) | [Arnaud Delorme](#delorme) |
-| 10:45  AM - 11:00 AM | Introduction to XSEDE [[download]](presentation.pdf) | [Amit Majumdar](#majumdhar) |
+| 9:05 AM - 10:45 AM | Electroencephalography using EEGLAB[[download]](presentation.pdf) | [Arnaud Delorme](#delorme) |
+| 10:45 AM - 11:00 AM | Introduction to Expanse [[download]](presentation.pdf) | [Amit Majumdar](#majumdhar) |
 | 11:00 AM - 11:30 AM | Expanse Overview & Expanse User Environments [[download]](presentation.pdf) | [Mahidhar Tatineni](tatineni) |
 | 11:30 AM - 11:50 AM | Running Jobs on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
 | 11:50 AM - 12:00 PM | Interactive Computing/Jupyter Notebooks on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
+| 12:00 PM - 12:15 PM | Break | |
+| TBD | Overview of the Neuroscience Gateway (NSG) | Subhashini Sivagnanam, Kenneth Yoshimoto, Martin Kandes, Steven Yeu (SDSC/UCSD), Ted Carneval (Yale), Amit Majumdar |
+| TBD | Demo/Hands-on of NSG | |
+| TBD | Discussions| |
 
   
   ## Instructors<a name="instructors"></a>
