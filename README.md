@@ -16,8 +16,8 @@ This workshop will provide an introduction to large-scale computing resources av
  **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | *Section:* | *Overview/User Environment*| |
-| 9:00 AM – 9:05 AM | Welcome & Introduction | [TBD](#tbd) |
-| 9:05 AM - 10:45 AM | Electroencephalography using EEGLAB[[download]](presentation.pdf) | [Arnaud Delorme](#delorme) |
+| 9:00 AM – 9:20 AM | Welcome & Introduction | [TBD](#tbd) |
+| 9:20 AM - 10:45 AM | Electroencephalography using EEGLAB[[download]](presentation.pdf) | [Arnaud Delorme](#delorme) |
 | 10:45 AM - 11:00 AM | Introduction to Expanse [[download]](presentation.pdf) | [Amit Majumdar](#majumdhar) |
 | 11:00 AM - 11:30 AM | Expanse Overview & Expanse User Environments [[download]](presentation.pdf) | [Mahidhar Tatineni](tatineni) |
 | 11:30 AM - 11:50 AM | Running Jobs on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
