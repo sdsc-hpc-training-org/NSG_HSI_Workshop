@@ -20,7 +20,7 @@ This workshop will provide an introduction to large-scale computing resources av
 | 9:05 AM - 10:45 AM | Overview of Electroencephalography [[download]](presentation.pdf) | [Arnaud Delorme](#delorme) |
 | 10:45  AM - 11:00 AM | Introduction to XSEDE [[download]](presentation.pdf) | [Amit Majumdar](#majumdhar) |
 | 11:00 AM - 11:30 AM | Introduction to Expanse & Expanse User Environments [[download]](presentation.pdf) | [Mahidhar Tatineni](tatineni) |
-| 11:30 AM - 12:00 PM | Running Jobs on Expanse [[download]](presentation.pdf) | [ [Mary Thomas](#thomas) |
+| 11:30 AM - 12:00 PM | Running Jobs on Expanse [[download]](presentation.pdf) | [ Mary Thomas](#thomas) |
 
   
   ## Instructors<a name="instructors"></a>
