@@ -27,6 +27,6 @@ This workshop will provide an introduction to large-scale computing resources av
 | **NAME** | **TITLE** | **ORG** |
 | ---------- | ----------- | ----------- |
 | Arnaud Delorme <a name="delorme"></a>  | Computational Data Scientist, HPC Training Lead [(bio)](http://arnauddelorme.com/)| UCSD |
-| Amit Majumdar | Division Director Data Enabled Scientific Computing, SDSC and Associate Professor Department of Radiation Medicine and Applied Sciences [(bio)](https://www.sdsc.edu/research/researcher_spotlight/index.html/)| SDSC |
+| Amit Majumdar | Division Director Data Enabled Scientific Computing & Associate Professor Department of Radiation Medicine and Applied Sciences [(bio)](https://www.sdsc.edu/research/researcher_spotlight/index.html/)| SDSC |
 | Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  
 | Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, HPC Training Lead [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
