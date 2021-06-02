@@ -6,8 +6,8 @@
 * [Description](#description)
 * [Agenda](#agenda)
 * [Instructors](#instructors)
-* Interactive Video: [Comet to Expanse Transition Tutorial (2021)](https://education.sdsc.edu/training/interactive/202010_comet_to_expanse/index.html)
-* All presentations located in the folder: [2021-Comet-to-Expanse-Transition-Tutorial](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/tree/main/2021-Comet-to-Expanse-Transition-Tutorial)
+* Interactive Video: Will be posted within a few days of the workshop
+* All presentations are located in this repository.
  
 ## Description:<a name="description"></a>
 This workshop will provide an introduction to large-scale computing resources available at NSF funded academic supercomputer centers for research and education. It will present the Neuroscience Gateway (NSG) a cyberinfrastructure resource that makes it easy for neuroscientists to use neuroscience software for modeling and data processing on computing resources. NSG is used for research and education by the neuroscience community. Second part of the workshop will introduce and explain the topic of electroencephalography (EEG) for neuroscientists. It will describe how EEG data is collected and analyzed using a widely used EEG data processing software called EEGLAB. It will show how to record electrical activity of the brain and various filtering done on EEG data, using EEGLAB, and how to analyze the data and relate to brain waves.
