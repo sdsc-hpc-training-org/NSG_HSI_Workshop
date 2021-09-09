@@ -1,5 +1,8 @@
 # 2021 Neuroscience Gateway and Electroencephalography Data Processing Workshop
 
+* **Date:  June 2, 2021**
+* **TIME: 9:00 - appx 1:00pm**
+
 ## WebSite:  https://hsistemhub.org/2021-summer-stemed-workshops/nsg-eeg/
 
 ### <a name="top">**Contents:**
