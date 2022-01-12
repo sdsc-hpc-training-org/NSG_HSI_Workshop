@@ -16,7 +16,7 @@
 This workshop will provide an introduction to large-scale computing resources available at NSF funded academic supercomputer centers for research and education. It will present the Neuroscience Gateway (NSG) a cyberinfrastructure resource that makes it easy for neuroscientists to use neuroscience software for modeling and data processing on computing resources. NSG is used for research and education by the neuroscience community. Second part of the workshop will introduce and explain the topic of electroencephalography (EEG) for neuroscientists. It will describe how EEG data is collected and analyzed using a widely used EEG data processing software called EEGLAB. It will show how to record electrical activity of the brain and various filtering done on EEG data, using EEGLAB, and how to analyze the data and relate to brain waves.
 
 ## Agenda:<a name="agenda">
- **TIME (PST)** | **TOPIC** | **PRESENTER** |
+| **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
 | *Section:* | *Overview/User Environment*| |
 | 9:00 AM – 9:20 AM | Welcome & Introduction | [TBD](#tbd) |
